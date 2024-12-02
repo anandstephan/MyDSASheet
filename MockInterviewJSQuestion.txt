@@ -1,0 +1,16 @@
+1. what is closure and real time project implementation [concern more with real time example of the project]
+2. what is difference between promises and async await with example
+3. what is sync and async programming ?
+4. what is prototype and prototypical inheritance (follow up question with example)
+5. what is memoization explain with example
+6. what is event bubbling 
+7. where to use context api and reduce with usecases
+8. what is useMemo() and memo() 
+9. what is the limation of reactjs
+10.what is controlled and uncontrolled component in reactjs
+11.what are the technique to optimize reactjs and react native project (useMemo,useCallback)
+12.what is the impact of passing function as a prototype
+13.what is shallow copy and deep copy in js
+14.Machine coding round  (Modal and close button click in anywhere apart from modal. modal should be closed)
+15.what is error boundary explain with example
+16.what are the biggest challenge that you face in the past 
